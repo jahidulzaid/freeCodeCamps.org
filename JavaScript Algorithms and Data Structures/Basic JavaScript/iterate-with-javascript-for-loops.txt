@@ -1,0 +1,14 @@
+// Setup
+const myArray = [];
+for (let x=1; x<6; x++){
+  myArray.push(x)
+}
+console.log(myArray);
+// Only change code below this line
+
+// let i = 0;
+// while (i <5 ){
+//   myArray.push(i)
+//   i++;
+// }
+// console.log(myArray);
